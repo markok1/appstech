@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 $redirectPath = '/contact/';
-$recipient = 'markokostic96@gmail.com';
+$recipient = 'info@appstechllc.com';
 $fromAddress = 'info@appstechllc.com';
 $fromName = 'AppsTech Website';
 
